@@ -1,7 +1,3 @@
-Here’s your **Git Commit Style Guide** in Markdown format. You can copy this into a file named `commit-style-guide.md` (or similar) and share it with your team or keep it in your project repo.
-
----
-```markdown
 # 📝 Git Commit Style Guide
 
 This guide follows the [Conventional Commits](https://www.conventionalcommits.org/) standard for writing clear, consistent, and meaningful commit messages.
